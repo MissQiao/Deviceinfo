@@ -1,7 +1,6 @@
 package info.hct.com.deviceinfo;
 
 import android.os.Environment;
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
